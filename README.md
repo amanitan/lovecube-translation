@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amanitan/lovecube-translation/master/manual/img/banner.png">
+  <img src="https://github.com/amanitan/lovecube-translation/raw/master/manual/img/banner.png">
 </p>
 
 ---
