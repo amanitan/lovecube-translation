@@ -1,0 +1,1 @@
+# lovecube-translation
