@@ -1,0 +1,36 @@
+LOVE³ -Love Cube- has a MOD option where an additional language can be added to the game.  
+You can add an additional language by putting files published by other people in "Documents\NEKO WORK H\LOVE CUBE\MOD" folder.
+Put all files directly under MOD folder.
+
+Examples: 
+Documents\NEKO WORK H\LOVE CUBE\MOD\ModFont.ttf
+Documents\NEKO WORK H\LOVE CUBE\MOD\ui_text.json
+Documents\NEKO WORK H\LOVE CUBE\MOD\chapter_title.json
+Documents\NEKO WORK H\LOVE CUBE\MOD\Scenatio files (*.ms)
+
+
+A Language MOD consists of 4 types of files.
+
+1. ModFont.ttf : Font used to render MOD text.
+2. ui_text.json : Translation of UI text.
+3. chapter_title.json : Translation of chapter titles.
+4. Scenario files : Translation of plot.
+
+1.
+Font is used to render translated text.
+English font will be applied if this file is missing.
+
+2.
+Translation of UI text.
+You may check English or Japanese text in text locations.
+English will be displayed if the file is missing or cannot be load.
+
+3.
+Translation of chapter titles.
+English will be displayed if the file is missing or cannot be load.
+
+4.
+Translation of plot.
+English will be displayed if a file is missing or cannot be load.
+
+
