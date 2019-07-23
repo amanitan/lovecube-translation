@@ -23,14 +23,14 @@ English font will be applied if this file is missing.
 2.
 Translation of UI text.
 You may check English or Japanese text in text locations.
-English will be displayed if the file is missing or cannot be load.
+English will be displayed if the file is missing or cannot be loaded.
 
 3.
 Translation of chapter titles.
-English will be displayed if the file is missing or cannot be load.
+English will be displayed if the file is missing or cannot be loaded.
 
 4.
 Translation of plot.
-English will be displayed if a file is missing or cannot be load.
+English will be displayed if a file is missing or cannot be loaded.
 
 

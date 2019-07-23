@@ -9,6 +9,7 @@ File List
 	Font used in the MOD.
 	This font will be used for rendering UI and scenario text when MOD is selected.
 	Please prepare a redistributable font that covers all translated text.
+	Make sure you do not violate font license when you redistribute it. 
 2. ui_text.json
 	Definitions of UI text.
 	Elements are divided into different groups, with their ID on the left side and text on the right side.
