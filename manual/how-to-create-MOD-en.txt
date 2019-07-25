@@ -1,0 +1,47 @@
+MOD Creation Instructions
+
+A language MOD consists of 4 types of files.
+We have prepared template files in Japanese and English for you. Please download and take a look at these files.
+All JSON and scenario files must be saved in UTF-8 encoding.
+
+File List
+1. ModFont.ttf
+	Font used in the MOD.
+	This font will be used for rendering UI and scenario text when MOD is selected.
+	TTF or OTF files are supported. You need to rename the extension of an otf file to ttf.
+	Please prepare a redistributable font that covers all translated text.
+	Make sure you do not violate font license when you redistribute it.
+2. ui_text.json
+	Definitions of UI text.
+	Elements are divided into different groups, with their ID on the left side and text on the right side.
+	Please translate text on the right side accordingly.
+	"%02d" of "inputmemo" field represents a number.
+	"basic_preview_text" field holds sample text of message window as seen on configuration screen.
+	Please translate all 3 lines in the array.
+3. chapter_title.json
+	Titles of each chapter.
+	Please translate these chapter titles on the right side accordingly.
+	You can see chapter titles on save data.
+4. Scenario files (.ms files)
+	These are the scenario files.
+	In other words, these are the actually plot shown in the game.
+	Please take a note of the "Cautions" part below while translating them.
+	Do not change files names.
+	If lines do not match, text will misalign in the game.
+	Text may not be displayed entirely if a certain line becomes too long.
+
+
+Cautions on translating scenario files
+
+"@" marks a character tag. The character's name follows an "@". If there is a space or other special character in the name, you need to surround it with double quote ".
+"//" marks a single-line comment which will be ignored. You do not need to translate these lines.
+"#" marks a label. This is used internally, but you do not need to translate them.
+The message window can display around 240 characters in single-language mode. However, we recommend limiting each message to 170 characters to support two-language display.
+When three or more characters speak at the same time, some lines are cut to fit in the message window.
+
+Special characters
+Some symbols are recognized as markers. They need to be escaped if you want to use them as text.
+You can escape them by adding a "\" (back slash) before them.
+The following symbols are treated as special characters.
+[]|《》{}>:=
+
