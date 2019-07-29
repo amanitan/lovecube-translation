@@ -75,5 +75,10 @@
 		"dialog_savedelete" : "Delete this save file?",
 		"dialog_unlockextra" : "Unlock Extra Contents?",
 		"dialog_steam_broadcast_exit" : "Live streaming is prohibited with R-18 patch installed. Game will terminate."
+	},
+	"font" : {
+		"main_font_size" : 24,
+		"main_2_font_size" : 18,
+		"sub_font_size" : 18
 	}
 }

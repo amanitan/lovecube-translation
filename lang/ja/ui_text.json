@@ -75,5 +75,10 @@
 		"dialog_savedelete" : "セーブデータを削除しますか？",
 		"dialog_unlockextra" : "本当に解放しますか？",
 		"dialog_steam_broadcast_exit" : "１８禁パッチ適用版では、ライブ配信には対応していません。ゲームを終了します。"
+	},
+	"font" : {
+		"main_font_size" : 25,
+		"main_2_font_size" : 18,
+		"sub_font_size" : 18
 	}
 }
