@@ -18,7 +18,7 @@ en 以下には英語の ja 以下には日本語の MOD が置かれていま�
 
 何か問題がございましたら、このリポでissueを開くか、Discordサーバー(https://discord.gg/X53yQ3h) を参加してください。  
 
-ゲーム開発中に使ったツール「Nekocat」(https://nekocat.com/projects/13)も公開中です。
+ゲーム開発中に使ったツール「Nekocat」も公開中です。 (https://nekocat.com/projects/13)
 
 翻訳済みのMODはSteam Communityとここで掲載する予定です。
 なお、MODの翻訳内容や品質に関する責任を負いかねます。MOD製作者にお問い合わせください。
