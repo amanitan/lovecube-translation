@@ -30,6 +30,10 @@ File List
 	If lines do not match, text will misalign in the game.
 	Text may not be displayed entirely if a certain line becomes too long.
 
+About word wrapping/line breaking
+English words will not be wrapped to the next line by default. However, languages with a different alphabet may come across the word-wrap issue.
+In this case, please edit "message" in "wordwrap_latin" located in "ui_text.json".
+The template file has "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'-" as an example, you can replace it with letters you need.
 
 Cautions on translating scenario files
 
