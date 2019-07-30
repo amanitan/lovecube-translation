@@ -17,9 +17,11 @@ en 以下には英語の ja 以下には日本語の MOD が置かれていま�
 * manual\how-to-use-MOD-ja.txt は、MOD を使用する人用のマニュアルです。
 
 何か問題がございましたら、このリポでissueを開くか、Discordサーバー(https://discord.gg/X53yQ3h) を参加してください。  
-なお、MODの翻訳内容や品質に関する責任を負いかねます。MOD製作者にお問い合わせください。
+
+ゲーム開発中に使ったツール「Nekocat」も公開中です。 (https://nekocat.com/projects/13)
 
 翻訳済みのMODはSteam Communityとここで掲載する予定です。
+なお、MODの翻訳内容や品質に関する責任を負いかねます。MOD製作者にお問い合わせください。
 
 ---
 
@@ -35,6 +37,8 @@ English files are located in the "en" folder, Japanese files are located in the 
 * See "manual\how-to-use-MOD-en.txt" for using a MOD.
 
 If you have any question, you can open an issue here or join our Discord server (https://discord.gg/X53yQ3h).  
-Please note that we are not responsible for contents and quality of any MOD. You need to contact MOD creators for related issues.
+
+We're also releasing "Nekocat", a localization tool we used for this title. (https://nekocat.com/projects/13)
 
 We will post a list of compelete language MODs on Steam Community and here.
+Please note that we are not responsible for contents and quality of any MOD. You need to contact MOD creators for related issues.
