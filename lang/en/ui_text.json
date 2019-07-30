@@ -80,5 +80,8 @@
 		"main_font_size" : 24,
 		"main_2_font_size" : 18,
 		"sub_font_size" : 18
+	},
+	"message" : {
+		"wordwrap_latin" : "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'-"
 	}
 }
