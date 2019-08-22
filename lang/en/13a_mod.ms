@@ -601,9 +601,7 @@ I stow the three out-of-it girls away in their own rooms.
 @Ichinari
 "They're all such lightweights, yet they sure love to drink."
 
-Working, eating delicious food, going on dates, having sex...
-
-It's so incredible being able to have such fun every single day.
+Working, eating delicious food, going on dates... It's so incredible being able to have such fun every single day.
 
 @Ichinari
 "Happiness, huh?"
