@@ -1,7 +1,7 @@
 ===========================================================
   ModFont-LICENSE
   
-  original filename: NotoSans-Regular.ttf
+  original filename: NotoSansCJKjp-Regular.otf
 ===========================================================
 
 This Font Software is licensed under the SIL Open Font License,
