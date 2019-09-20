@@ -22,7 +22,11 @@ File List
 	Titles of each chapter.
 	Please translate these chapter titles on the right side accordingly.
 	You can see chapter titles on save data.
-4. Scenario files (.ms files)
+4. eyecatch.json
+	Text for eyecatch (chapter transition) images.
+	Please translate the text accordingly.
+	You can check the results in the game.
+5. Scenario files (.ms files)
 	These are the scenario files.
 	In other words, these are the actually plot shown in the game.
 	Please take a note of the "Cautions" part below while translating them.
